@@ -1,6 +1,6 @@
-# 🚀 My Competitive Programming Journey on Codeforces
+# 🚀 Competitive Programming Journey on Codeforces
 
-Welcome to my **competitive programming journey**! 🎯 This repository tracks the problems I’ve solved on [Codeforces](https://codeforces.com/) to improve my **problem-solving skills** and **algorithmic thinking**. 
+Welcome to my **competitive programming journey**! 🎯 This repository tracks the problems I’ve solved on [Codeforces](https://codeforces.com/profile/exelentshakil) to improve my **problem-solving skills** and **algorithmic thinking**. 
 
 I’m focusing on mastering:
 - **GCD & LCM** for synchronization and divisibility problems.
@@ -16,28 +16,6 @@ I’m focusing on mastering:
 ## 📈 Goal
 
 To become proficient at **competitive programming** by consistently solving problems on **Codeforces** and other platforms.
-
----
-
-## 🗂️ Folder Structure
-
-. ├── README.md # This file ├── Problems/ # Folder containing problem solutions │ ├── A/ # Easy problems (Codeforces A-level) │ ├── B/ # Medium problems (Codeforces B-level) │ ├── C/ # Harder problems (Codeforces C-level) │ └── ... # Additional levels as I progress └── Templates/ # Reusable templates for problem-solving
-
-yaml
-Copy code
-
----
-
-## 🔥 Problem-Solving Strategies
-
-### 1. **Greedy Algorithm Example:** [Coin Change Problem](./Problems/Greedy/CoinChange.cpp)
-   - Use a **greedy strategy** when making the locally optimal choice leads to the global solution.
-
-### 2. **Dynamic Programming Example:** [Climbing Stairs](./Problems/DP/ClimbingStairs.cpp)
-   - Use **DP** when problems have **overlapping subproblems** and you need to reuse previous results.
-
-### 3. **Graph Theory Example:** [Shortest Path with Floyd-Warshall](./Problems/Graphs/FloydWarshall.cpp)
-   - **Graph algorithms** are great for **pathfinding** and **network problems**.
 
 ---
 
